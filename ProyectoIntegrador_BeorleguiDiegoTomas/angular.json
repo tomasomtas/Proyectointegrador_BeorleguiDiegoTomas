@@ -25,8 +25,9 @@
               "src/assets"
             ],
             "styles": [
-              "ProyectoIntegrador_BeorleguiDiegoTomas/node_modules/bootstrap/dist/css/bootstrap.css",
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador_BeorleguiDiegoTomas/node_modules/bootstrap/dist/css/bootstrap.css"
+              
                
             
             ],
