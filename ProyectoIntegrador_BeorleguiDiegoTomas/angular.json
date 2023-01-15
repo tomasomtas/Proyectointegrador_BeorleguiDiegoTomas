@@ -25,14 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "ProyectoIntegrador_BeorleguiDiegoTomas/node_modules/bootstrap/dist/css/bootstrap.css"
-              
-               
-            
-            ],
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+              "src/styles.css"
+
+              ],
             "scripts": [
-              "ProyectoIntegrador_BeorleguiDiegoTomas/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
@@ -94,8 +92,11 @@
             ],
             "styles": [
               "src/styles.css"
+              
             ],
-            "scripts": []
+            "scripts": [
+              
+            ]
           }
         }
       }
